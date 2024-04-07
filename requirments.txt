@@ -1,0 +1,9 @@
+python>=3.8
+pytorch>=1.7
+torchvision>=0.8
+torchaudio
+opencv-python
+pycocotools
+matplotlib
+onnxruntime
+onnx
