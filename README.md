@@ -38,7 +38,7 @@ The following optional dependencies are necessary for mask post-processing, savi
 
 ```
 pip install opencv-python 
-conda install pycocotools matplotlib onnxruntime onnx
+conda install pycocotools matplotlib onnxruntime onnx ipykernel
 ```
 
 ## <a name="GettingStarted"></a>Getting Started
